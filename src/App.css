@@ -59,10 +59,10 @@ h1 {
   height: 240px;
   margin-left: 148px;
   margin-top: -270px;
-  background-image: linear-gradient(black 60%, transparent 40%);
+  background-image: linear-gradient(black 50%, transparent 50%);
 }
 .hour {
-  background-image: linear-gradient(black 60%, transparent 40%);
+  background-image: linear-gradient(black 50%, transparent 50%);
   margin-left: 144px;
   margin-top: -230px;
   width: 6px;
